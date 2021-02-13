@@ -30,4 +30,4 @@ Please make sure to update tests as appropriate.
 * **NextGenTechMart Engineering** - *Initial work* - [NextGenTechMart](https://github.com/nextgentechmart)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [MIT](https://choosealicense.com/licenses/mit/)
